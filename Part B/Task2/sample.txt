@@ -1,0 +1,224 @@
+Part B: 
+Arrays
+:
+ 
+ 
+ 
+An array is a data structure that stores one or more similar type of values in a 
+single value.
+ 
+Three types of arrays
+ 
+are
+ 
+supported by PHP:
+ 
+1.
+ 
+Numeric array
+-
+An array with a numeric index. Values are stored 
+and 
+accessed in linear fashion
+ 
+2.
+ 
+Associative array
+-
+An array with strings as index
+ 
+(keys)
+. This stores element 
+values in association with key values rather than in a strict linear index order.
+ 
+3.
+ 
+Multidimensional array
+-
+An array containing one or more array
+s and values 
+are accessed using multiple indices
+ 
+i.e. array of arrays.
+ 
+ 
+The foreach loop is usually used to loop through the arrays.
+ 
+Exa
+mples of arrays 
+are shown below. All three types of arrays are created using the built
+-
+in 
+array() 
+ 
+constructor in PHP.
+ 
+ 
+Part B: 
+Arrays
+:
+ 
+ 
+ 
+An array is a data structure that stores one or more similar type of values in a 
+single value.
+ 
+Three types of arrays
+ 
+are
+ 
+supported by PHP:
+ 
+1.
+ 
+Numeric array
+-
+An array with a numeric index. Values are stored 
+and 
+accessed in linear fashion
+ 
+2.
+ 
+Associative array
+-
+An array with strings as index
+ 
+(keys)
+. This stores element 
+values in association with key values rather than in a strict linear index order.
+ 
+3.
+ 
+Multidimensional array
+-
+An array containing one or more array
+s and values 
+are accessed using multiple indices
+ 
+i.e. array of arrays.
+ 
+ 
+The foreach loop is usually used to loop through the arrays.
+ 
+Exa
+mples of arrays 
+are shown below. All three types of arrays are created using the built
+-
+in 
+array() 
+ 
+constructor in PHP.
+ 
+ 
+Part B: 
+Arrays
+:
+ 
+ 
+ 
+An array is a data structure that stores one or more similar type of values in a 
+single value.
+ 
+Three types of arrays
+ 
+are
+ 
+supported by PHP:
+ 
+1.
+ 
+Numeric array
+-
+An array with a numeric index. Values are stored 
+and 
+accessed in linear fashion
+ 
+2.
+ 
+Associative array
+-
+An array with strings as index
+ 
+(keys)
+. This stores element 
+values in association with key values rather than in a strict linear index order.
+ 
+3.
+ 
+Multidimensional array
+-
+An array containing one or more array
+s and values 
+are accessed using multiple indices
+ 
+i.e. array of arrays.
+ 
+ 
+The foreach loop is usually used to loop through the arrays.
+ 
+Exa
+mples of arrays 
+are shown below. All three types of arrays are created using the built
+-
+in 
+array() 
+ 
+constructor in PHP.
+ 
+ 
+Part B: 
+Arrays
+:
+ 
+ 
+ 
+An array is a data structure that stores one or more similar type of values in a 
+single value.
+ 
+Three types of arrays
+ 
+are
+ 
+supported by PHP:
+ 
+1.
+ 
+Numeric array
+-
+An array with a numeric index. Values are stored 
+and 
+accessed in linear fashion
+ 
+2.
+ 
+Associative array
+-
+An array with strings as index
+ 
+(keys)
+. This stores element 
+values in association with key values rather than in a strict linear index order.
+ 
+3.
+ 
+Multidimensional array
+-
+An array containing one or more array
+s and values 
+are accessed using multiple indices
+ 
+i.e. array of arrays.
+ 
+ 
+The foreach loop is usually used to loop through the arrays.
+ 
+Exa
+mples of arrays 
+are shown below. All three types of arrays are created using the built
+-
+in 
+array() 
+ 
+constructor in PHP.
+ 
+ 
